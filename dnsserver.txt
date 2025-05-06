@@ -1,0 +1,3 @@
+create database dnsserver;
+
+vreate table domains(domain_name varchar(50) primary key, IPaddress varvhar(15) unique,IPclassvarchar()); 
